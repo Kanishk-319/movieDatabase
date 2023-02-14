@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/movieDatabase/static/css/main.2471e165.css",
+    "main.js": "/movieDatabase/static/js/main.32dd034f.js",
+    "static/js/787.3191eb0f.chunk.js": "/movieDatabase/static/js/787.3191eb0f.chunk.js",
+    "static/media/bg1.jpg": "/movieDatabase/static/media/bg1.4d0e84ed79dae204fd7d.jpg",
+    "static/media/bg3.jpg": "/movieDatabase/static/media/bg3.92ad3e77f25de7375f79.jpg",
+    "static/media/bg4.jpg": "/movieDatabase/static/media/bg4.f7f5ea7b4be15bef2d40.jpg",
+    "static/media/bg2.jpg": "/movieDatabase/static/media/bg2.f78d8dca7db2a02d628e.jpg",
+    "index.html": "/movieDatabase/index.html",
+    "main.2471e165.css.map": "/movieDatabase/static/css/main.2471e165.css.map",
+    "main.32dd034f.js.map": "/movieDatabase/static/js/main.32dd034f.js.map",
+    "787.3191eb0f.chunk.js.map": "/movieDatabase/static/js/787.3191eb0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2471e165.css",
+    "static/js/main.32dd034f.js"
+  ]
+}
