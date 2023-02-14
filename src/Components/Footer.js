@@ -26,7 +26,7 @@ function Footer() {
             width: "35%",
           }}
         >
-          <h2 style={{fontWeight:'bold'}}>Suscribe for More</h2>
+          <h2 style={{fontWeight:'bold'}}>Subscribe for More</h2>
           <p className="gerneANDratingheading subscribePara">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam
             aliquid dolor repudiandae quaerat maxime voluptatum maiores hic!
