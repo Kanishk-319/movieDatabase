@@ -33,7 +33,7 @@ function Footer() {
             Hic, in non. Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, tempore?
           </p>
         </div>
-        <div class="input-group mb-3 p-4" style={{width:'35%'}}>
+        <div className="input-group mb-3 p-4" style={{width:'35%'}}>
           <input
             type="text"
             class="form-control bg-dark"
@@ -42,7 +42,7 @@ function Footer() {
             aria-describedby="basic-addon2"
             
           />
-          <button  type="submit" class="input-group-text text-white bg-dark " id="basic-addon2">
+          <button  type="submit" className="input-group-text text-white bg-dark " id="basic-addon2">
             Send
           </button>
         </div>

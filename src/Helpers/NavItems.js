@@ -18,7 +18,7 @@ export const Items = [{
       "Romance",
       "Sci-fi",
       "Horror",
-      "Psychological",
+      "Thriller",
       "Crime",
       "Drama",
     ],
